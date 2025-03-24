@@ -1,0 +1,21 @@
+---
+title: "Josh Ray"
+image: IMG_0249.jpeg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/joshua-raydfw
+    - text: Github
+      href: https://github.com/JoshuaRay25
+    - text: Email
+      href: joshuavray.02@gmail.com
+    
+
+
+---
+My name is Josh Ray and I am an Ecosystem Science and Sustainability major with a minor in Business Administriation and my passion is business sustainability.
+
+
